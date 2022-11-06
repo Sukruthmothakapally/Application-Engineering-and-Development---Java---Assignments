@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<!--this is the original xml file-->
+
+<class>
+    <book>
+        <title>harry potter</title>
+        <publishedYear>1999</publishedYear>
+        <numberOfPages>400</numberOfPages>
+        <authors>J K Rowling</authors>
+    </book>
+
+    <book>
+        <title>meluva</title>
+        <publishedYear>2008</publishedYear>
+        <numberOfPages>780</numberOfPages>
+        <authors>Amish Tripathi</authors>
+    </book>
+
+    <book>
+        <title>jobs</title>
+        <publishedYear>2005</publishedYear>
+        <numberOfPages>1098</numberOfPages>
+        <authors>steve jobs</authors>
+    </book>
+
+</class>

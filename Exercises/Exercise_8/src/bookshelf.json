@@ -1,0 +1,28 @@
+{
+  "bookshelf":{
+    "book_title": "alchemist",
+    "book_publishedYear": 1978,
+    "book_numberOfPages": 299,
+    "book_authors": "Josh Mathews"
+  },
+  "books": [
+    {
+      "book_title": "harry potter",
+      "book_publishedYear": 1995,
+      "book_numberOfPages": 468,
+      "book_authors": "J K Rowling"
+    },
+    {
+      "book_title": "meluva",
+      "book_publishedYear": 2008,
+      "book_numberOfPages": 600,
+      "book_authors": "Amish Tripathi"
+    },
+    {
+      "book_title": "rich dar poor dad",
+      "book_publishedYear": 1999,
+      "book_numberOfPages": 250,
+      "book_authors": "Robert"
+    }
+  ]
+}
