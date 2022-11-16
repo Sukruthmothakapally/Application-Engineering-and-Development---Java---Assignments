@@ -38,6 +38,21 @@ Exercise 4 :
 Write a console program in Java to exercise at least 5 regular expressions patterns and demonstrate positive and negative cases using at least one subject string for each case.
 
 
+Exercise 6 :
+
+Create two objects - Alice and Bob
+
+Demonstrate symmetric encryption and decryption of message sent between Alice and Bob
+
+Use AES-256 encryption with GCM/NoPadding cipher
+
+Demonstrate asymmetric encryption and decryption of message sent between Alice and Bob
+
+Use RSA-2048 encryption ECB/PKCS1Padding
+
+Demonstrate signing a message and validating the signature using RSA-2048 keys between Alice and Bob
+
+
 Exercise 8 : 
 
 Create a Java program to parse the following structure in XML and JSON. You need to create your own sample XML and JSON to be used for the program with at least three entries for 'Book' element and it's sub-elements. Print output of the each parser on console. Add an additional entry for 'book' element programmatically and reprint the document through parser to confirm that is has been added correctly.
@@ -56,6 +71,13 @@ numberOfPages
 
 authors 
 
-	Book...
+Book...
+
+
+Exercise 9 :
+
+Create four function calculator using JavaFX
+
+	Hint: Keep the GUI and layout simple. One such example of simple layout is in JavaFX slide deck in the course material. 
 
 
