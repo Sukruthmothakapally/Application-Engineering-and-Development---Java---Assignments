@@ -2,6 +2,7 @@
 Northeastern University - Application Engineering and Development - Java - Exercises and Final Project
 
 
+
 Exercise 0 :
 
 Declare 10 classes based on objects around you
@@ -13,6 +14,7 @@ Each class must have at least 8 properties & 3 methods (no logic inside methods 
 Print a statement in constructor to indicate creation of each instance, preferably identify each instance with unique id/name
 
 Create a Main method to instantiate at least 3 objects of each class
+
 
 
 Exercise 1 :
@@ -53,6 +55,7 @@ May use methods such as 'calculateArea()', 'calculatePerimeter()', etc. as neede
 May use static field to represent color of the class or name of the class to represent concept of static fields
 
 
+
 Exercise 3b :
 
 Make the classes in exercise # 2 serializable
@@ -60,9 +63,11 @@ Make the classes in exercise # 2 serializable
 Test serialization and deserialization of the objects created in exercise # 2.
 
 
+
 Exercise 4 :
 
 Write a console program in Java to exercise at least 5 regular expressions patterns and demonstrate positive and negative cases using at least one subject string for each case.
+
 
 
 Exercise 6 :
@@ -78,6 +83,17 @@ Demonstrate asymmetric encryption and decryption of message sent between Alice a
 Use RSA-2048 encryption ECB/PKCS1Padding
 
 Demonstrate signing a message and validating the signature using RSA-2048 keys between Alice and Bob
+
+
+
+Excercise 7 :
+
+(a) Write a generic method to count the number of elements in a collection that have a specific property (for example, odd integers, prime numbers, palindromes).
+
+(b) Write a generic method to exchange the positions of two different elements in an array.
+
+(c) Write a generic method to find the maximal element in the range [begin, end) of a list.
+
 
 
 Exercise 8 : 
@@ -101,10 +117,12 @@ authors
 Book...
 
 
+
 Exercise 9 :
 
 Create four function calculator using JavaFX
 
 	Hint: Keep the GUI and layout simple. One such example of simple layout is in JavaFX slide deck in the course material. 
+
 
 
