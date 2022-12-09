@@ -3,7 +3,7 @@ Northeastern University - Application Engineering and Development - Java - Exerc
 
 
 
-Exercise 0 :
+**Exercise 0 :**
 
 Declare 10 classes based on objects around you
 
@@ -17,7 +17,7 @@ Create a Main method to instantiate at least 3 objects of each class
 
 
 
-Exercise 1 :
+**Exercise 1 :**
 Create a class hierarchy with base class as Student and derived classes are Part-Time and Full-Time
 
 Full-time students will have an extra field to hold two Exam scores
