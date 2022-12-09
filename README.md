@@ -1,7 +1,7 @@
 # INFO5100_002762318_SukruthKeshavaramMothakapally-
 Northeastern University - Application Engineering and Development - Java - Exercises and Final Project
 
-
+---
 
 **Exercise 0 :**
 
@@ -15,7 +15,7 @@ Print a statement in constructor to indicate creation of each instance, preferab
 
 Create a Main method to instantiate at least 3 objects of each class
 
-
+---
 
 **Exercise 1 :**
 Create a class hierarchy with base class as Student and derived classes are Part-Time and Full-Time
@@ -42,7 +42,7 @@ Create an instance of Session, populate it with 20 students and dummy scores
 
 Call all public methods of Session and capture the output of those methods on console
 
-
+---
 
 Exercise 2 :
 
@@ -54,7 +54,7 @@ May use methods such as 'calculateArea()', 'calculatePerimeter()', etc. as neede
 
 May use static field to represent color of the class or name of the class to represent concept of static fields
 
-
+---
 
 Exercise 3b :
 
@@ -62,13 +62,13 @@ Make the classes in exercise # 2 serializable
 
 Test serialization and deserialization of the objects created in exercise # 2.
 
-
+---
 
 Exercise 4 :
 
 Write a console program in Java to exercise at least 5 regular expressions patterns and demonstrate positive and negative cases using at least one subject string for each case.
 
-
+---
 
 Exercise 6 :
 
@@ -84,7 +84,7 @@ Use RSA-2048 encryption ECB/PKCS1Padding
 
 Demonstrate signing a message and validating the signature using RSA-2048 keys between Alice and Bob
 
-
+---
 
 Excercise 7 :
 
@@ -94,7 +94,7 @@ Excercise 7 :
 
 (c) Write a generic method to find the maximal element in the range [begin, end) of a list.
 
-
+---
 
 Exercise 8 : 
 
@@ -116,7 +116,7 @@ authors
 
 Book...
 
-
+---
 
 Exercise 9 :
 
